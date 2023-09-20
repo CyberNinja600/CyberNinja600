@@ -1,10 +1,10 @@
-![image](https://github.com/CyberNinja600/CyberNinja600/assets/74649503/214e0726-1896-4091-b8a4-fdff97d5c65c)<!-- <img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif"> -->
+![image](https://github.com/CyberNinja600/CyberNinja600/assets/74649503/51f3a867-c0b8-4568-a613-a65642dec9bb)<!-- >![image](https://github.com/CyberNinja600/CyberNinja600/assets/74649503/214e0726-1896-4091-b8a4-fdff97d5c65c)<!-- <img align="center" alt="Coding" width="850" height='300' src="https://user-images.githubusercontent.com/28063426/186977443-843ee608-5931-43b1-a95c-e9d63e677b2b.gif"> -->
 
 
 <h1 align="center">Hey! I'm Abrar</h1>
 <h3 align="center">A graduate student from BRAC University</h3>
 
-<img align="right" alt="Coding" width="180" height='180' src="https://media.tenor.com/iTKat6xzlakAAAAd/kenshin-rurouni-kenshin.gif">
+<img align="right" alt="Coding" width="180" height='180' src="![image](https://github.com/CyberNinja600/CyberNinja600/assets/74649503/38a4c053-ea5f-4055-abf3-8d5fb2310d1e)">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
