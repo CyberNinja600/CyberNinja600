@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=def4lt-303&label=Profile%20views&color=0e75b6&style=flat" alt="def4lt-303" /> </p> -->
 
-- 🔭 I’m currently working on: **A new state-of-the art Bangla sign language recognition system**
+- 🔭 I’m currently working on: **Online Music Library**
 
 - 🤔 I’m interested in: **Computer Vision, Image processing and Artifical Intelligence**
 
