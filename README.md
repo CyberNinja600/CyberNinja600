@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src='https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Hi!+I%27m+Abrar!;Welcome+to+my+Profile!' alt='Typing SVG' />
+<h1 align="center"> Hi! I'm Abrar.
 </h1>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberNinja600/CyberNinja600/output/github-contribution-grid-snake.svg" style="visibility: visible; max-width: 100%;">
 <h3 align="center">A Software Engineer QA from Therap(BD)</h3>
 
 
